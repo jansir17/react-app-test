@@ -1,4 +1,4 @@
-#This is a testing project based on Cypress Framework to test a React App. 
+This is a testing project based on Cypress Framework to test a React App. 
 
 Test1: 
 > Login with random Username, Mail, Password which generated randomly.
